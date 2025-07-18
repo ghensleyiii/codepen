@@ -15,7 +15,6 @@ Object.assign(logDiv.style, {
   padding: "10px",
   margin: "-10px",
   height: "100vh",
-  border: "1px solid #333",
   height: "100vh",
   overflowY: "auto",
   borderRadius: "4px",
